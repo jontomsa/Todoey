@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by Ion Tomsa on 1/3/18.
-//  Copyright © 2018 Ion Tomsa. All rights reserved.
+//  Created by Jon Tomsa on 1/3/18.
+//  Copyright © 2018 Jon Tomsa. All rights reserved.
 //
 
 import UIKit

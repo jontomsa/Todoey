@@ -17,6 +17,7 @@ class TodoListViewController: UITableViewController {
             loadItems()
         }
     }
+    
     var itemArray = [Item]()
     let context = (UIApplication.shared.delegate as! AppDelegate).persistentContainer.viewContext
     
